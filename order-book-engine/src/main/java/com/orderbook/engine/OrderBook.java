@@ -6,7 +6,6 @@ import com.orderbook.model.OrderSide;
 import java.math.BigDecimal;
 import java.util.Comparator;
 import java.util.Optional;
-import java.util.concurrent.ConcurrentLinkedDeque;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.ConcurrentSkipListMap;
 
